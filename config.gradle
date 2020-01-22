@@ -1,0 +1,22 @@
+ext {
+    android_version = [
+            "buildToolsVersion": "29.0.2",
+            "compileSdkVersion": 28,
+            "minSdkVersion"    : 14,
+            "targetSdkVersion" : 28,
+            "supportVersion"   : "28.0.0",
+            "versionCode"      : 1,
+            "versionName"      : "1.0.0",
+            "applicationId"    : "cn.ddh.jdutiltest"
+    ]
+
+    jd_util = [
+
+            "versionCode"    : 1,//jar包的版本号
+            "versionName"    : "V1.0.0",//jar包的版本名称
+            "name"           : "jdUtil",//jar包的名称
+            "destinationPath": "build" //生成jar包的位置
+
+    ]
+
+}

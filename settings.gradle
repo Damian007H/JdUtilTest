@@ -1,0 +1,2 @@
+include ':app', ':jdutil'
+rootProject.name='JdUtilTest'
