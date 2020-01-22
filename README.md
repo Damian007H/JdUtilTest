@@ -1,4 +1,9 @@
 
+
+![note](https://raw.githubusercontent.com/Len-jidong/JdUtilTest/master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png)
+
+![note](https://www.baidu.com/img/bd_logo1.png?where=super)
+
 该项目中集成了，开发使用中常用的工具类，[GitHub地址](https://github.com/Len-jidong/JdUtilTest)，[原文地址](https://blog.csdn.net/qq_36652498/article/details/104069385)
 ## 一：声明
 该项目仅供自己和无项目攻击者使用，因为内容单一且简单
